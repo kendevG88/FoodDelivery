@@ -1,5 +1,5 @@
-[
-  {
+{
+  "Ốc xào khế": {
     "Name": "Ốc xào khế",
     "PictureName": "oc_xao_khe",
     "Type": "man",
@@ -10,7 +10,7 @@
     "Use": "Cho ốc ra dĩa, rắc tía tô lên mặt, dùng nóng với cơm.",
     "More": "Xóc khế với đường giúp giảm vị chua, tăng thêm độ ngọt của khế, sau khi xào sẽ ngon hơn. Xào ốc với lửa to, trút ra sau đó mới trộn chung với khế xào giúp ốc chín giòn. Rửa ốc với giấm và xả sạch để ốc được sạch nhớt."
   },
-  {
+  "Lẩu vịt hầm sả": {
     "Name": "Lẩu vịt hầm sả",
     "PictureName": "lau_vit_ham_xa",
     "Type": "man",
@@ -21,7 +21,7 @@
     "Use": "Múc nước ra nồi lẩu, thêm rau nêm còn lại. Ăn kèm với bún, rau, chấm với nước mắm mặn và ớt cắt lát.",
     "More": "Ướp vịt hơi đậm để sau khi nấu miếng vịt có vị vừa ăn, không bị nhạt. Xào săn thịt vịt kĩ với các gia vị để thấm trước khi cho nước vào, giúp món ăn thơm hơn. Khử mùi lông vịt với gừng và rượu trắng để vịt không bị hôi lông."
   },
-  {
+  "Sườn chiên sốt mận": {
     "Name": "Sườn chiên sốt mận",
     "PictureName": "suon_chien_sot_man",
     "Type": "man",
@@ -32,7 +32,7 @@
     "Use": "Cho sườn ra dĩa, dùng với cơm trắng.",
     "More": "Nấu sườn bằng nồi áp suất vừa tiết kiệm thời gian vừa giữ được vị ngọt trong sườn. Nấu sườn chung với gừng để thịt thơm hơn, tạo mùi thơm đặc trưng cho món ăn. Dùng nước luộc sườn để làm xốt giúp món ăn ngọt và đậm đà hơn."
   },
-  {
+  "Trứng cút xào chua ngọt": {
     "Name": "Trứng cút xào chua ngọt",
     "PictureName": "trung_cut_xao_chua_ngot",
     "Type": "man",
@@ -43,7 +43,7 @@
     "Use": "Cho món ăn ra dĩa, rắc tiêu lên trên. Dùng nóng với cơm.",
     "More": "Khi luộc trứng cút cho vào nước 1 ít muối, luộc từ nước lạnh giúp trứng dễ bóc vỏ và không bị vỡ. Tẩm bột trứng cút để sau khi xào xốt bám đều vào trứng"
   },
-  {
+  "Lẩu cá viên nấu sấu": {
     "Name": "Lẩu cá viên nấu sấu",
     "PictureName": "lau_ca_vien_nau_sau",
     "Type": "man",
@@ -54,7 +54,7 @@
     "Use": "Trình bày các loại rau, nấm, đậu hũ, tôm sú, trứng cút còn lại và các loại rau nêm, ớt. Bày thêm bún, nước mắm và ớt cắt lát.",
     "More": "Không nêm thêm gia vị vào giò sống, vì giò sống đã có gia vị. Nếu không có sấu có thể thay bằng nước cốt me chín."
   },
-  {
+  "Mực xào đậu hà lan": {
     "Name": "Mực xào đậu hà lan",
     "PictureName": "muc_xao_dau_ha_lan",
     "Type": "man",
@@ -65,7 +65,7 @@
     "Use": "Cho ra dĩa. Dùng nóng với cơm.",
     "More": "Pha hỗn hợp gia vị với nước tương “Phú Sĩ” để món ăn có màu đẹp và vị đậm đà hơn.  Chần đậu Hà Lan với nước có ít muối trước, giúp đậu giữ màu xanh đẹp và chín đều.  Ngâm và rửa sạch mực dưới vòi nước để loại sạch cát"
   },
-  {
+  "Bắp cải tím trộn tôm": {
     "Name": "Bắp cải tím trộn tôm",
     "PictureName": "bap_cai_tim_tron_tom",
     "Type": "man",
@@ -76,7 +76,7 @@
     "Use": "Khi ăn trộn đều.",
     "More": "Bắp cải tím sau khi cắt sợi, ngâm qua nước đá lạnh để bắp cải bớt mùi hăng và giòn hơn. Trộn riêng tôm và bắp cải để giữ được màu đẹp cho tôm."
   },
-  {
+  "Canh hàu sữa măng chua": {
     "Name": "Canh hàu sữa măng chua",
     "PictureName": "canh_hau_sua_mang_chua",
     "Type": "man",
@@ -87,7 +87,7 @@
     "Use": "Canh dùng nóng với cơm hoặc bún tươi cùng nước mắm + ớt, cho tóp mỡ, tỏi phi lên trên.",
     "More": "Rửa và xả măng chua kỹ, kiêm tra độ chua trước khi nấu. Ướp hàu với gia vị AjiQuick Lẩu Thái giúp thấm vị, săn hơn, thơm hơn. Nấu hàu nhanh để giữ vị ngọt và hàu không bị nát."
   },
-  {
+  "Sườn nướng tiêu": {
     "Name": "Sườn nướng tiêu",
     "PictureName": "suon_nuong_tieu",
     "Type": "man",
@@ -98,7 +98,7 @@
     "Use": "Cho sườn ra dĩa, rắc lên thêm tiêu trắng xay, trang trí thêm xà lách, ăn kèm với xốt đã pha.",
     "More": "Sự kết hợp giữa 3 loại tiêu tạo nên mùi thơm đặc trưng cho món nướng. Xẻ một đường dọc miếng sườn giúp khi ăn dễ hơn. Ướp sườn với sữa chua có đường để làm mềm sườn và thịt béo, ngon hơn."
   },
-  {
+  "Blendy Kem Nho": {
     "Name": "Blendy Kem Nho",
     "PictureName": "kem_nho",
     "Type": "nuoc",
@@ -109,7 +109,7 @@
     "Use": "",
     "More": "Kết hợp với kem vani tạo hương vị béo nhẹ cho thức uống.  Trang trí bằng lớp sốt socola giúp thức uống hấp dẫn hơn.  Dầm nho dập giúp tạo hương vị đặc trưng cho thức uống."
   },
-  {
+  "Blendy Gạo Rang Kem Chuối": {
     "Name": "Blendy Gạo Rang Kem Chuối",
     "PictureName": "gao_rang_kem_chuoi",
     "Type": "nuoc",
@@ -120,7 +120,7 @@
     "Use": "",
     "More": "Giữ lạnh hỗn hợp trà sau khi pha để đảm bảo độ lạnh của thức uống. Có thể thay chuối bằng loại hoa quả khác tùy thích."
   },
-  {
+  "Trà Sữa Blendy Trái Cây": {
     "Name": "Trà Sữa Blendy Trái Cây",
     "PictureName": "tra_sua_trai_cay",
     "Type": "nuoc",
@@ -131,7 +131,7 @@
     "Use": "Cho đá viên vào ly, chế trà sữa lên. Trên cùng topping trái cây cắt vuông và 1 đọt húng lủi.",
     "More": "Pha trà sữa nóng từ từ vào syrup giúp dễ tan syrup hơn. Ướp nước cốt chanh vào bơ giúp giữ màu đẹp cho bơ. Pha trà hơi đặc để giữ đá tan chậm, tạo hình trà sữa hấp dẫn hơn."
   },
-  {
+  "Trà sữa hoa đậu biếc": {
     "Name": "Trà sữa hoa đậu biếc",
     "PictureName": "tra_sua_hoa_dau_biec",
     "Type": "nuoc",
@@ -142,7 +142,7 @@
     "Use": "Khuấy đều và thưởng thức.",
     "More": "Nên pha nước cốt hoa đậu biết hơi đậm màu, tạo tầng rõ và đẹp.  Giảm lượng nước pha trà sữa để khi thêm soda và nước hoa đậu biếc vào món nước sẽ cân bằng vị."
   },
-  {
+  "Trà sữa trân châu đường đen": {
     "Name": "Trà sữa trân châu đường đen",
     "PictureName": "tra_sua_tran_chau_duong_den",
     "Type": "nuoc",
@@ -153,7 +153,7 @@
     "Use": "Trình bày: Đổ trà sữa ra ly, thêm trân châu đường đen vào, trang trí với ống hút và muỗng khuấy.",
     "More": "Luộc trân châu chín hẳn mới ngâm vào đường, giúp trân châu có độ chín dẻo. Trân châu luộc xong cho ngay vào nước đường để trân châu thấm vị ngọt."
   },
-  {
+  "Bánh đồng xu phô mai": {
     "Name": "Bánh đồng xu phô mai",
     "PictureName": "banh_dong_xu_pho_mai",
     "Type": "ngot",
@@ -164,7 +164,7 @@
     "Use": "",
     "More": "Rán bánh với mức lửa nhỏ nhất để bánh chín và vàng đều.  Sử dụng chảo đáy dầy để tỏa nhiệt đều, bánh sẽ chín đều và ngon hơn."
   },
-  {
+  "Bánh mì hạnh nhân": {
     "Name": "Bánh mì hạnh nhân",
     "PictureName": "banh_mi_hanh_nhan",
     "Type": "ngot",
@@ -175,7 +175,7 @@
     "Use": "Cho bánh ra đĩa, ray đường bột lên trên, bắt chỉ Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu và mật ong trên cùng. Trang trí với dâu tây và húng lủi.",
     "More": "Phết cream cheese để 2 miếng bánh mì được kết chặt vào nhau.  Cắt đôi theo đường chéo tạo cảm giác miếng bánh được to hơn.  Nhúng nhanh bánh qua trứng để bánh không bị nhũng, chiên trứng sẽ khó chín bên trong."
   },
-  {
+  "Bánh muffin chuối socola": {
     "Name": "Bánh muffin chuối socola",
     "PictureName": "banh_muffin",
     "Type": "ngot",
@@ -186,7 +186,7 @@
     "Use": "Xếp bánh ra dĩa. Có thể dùng nóng hoặc nguội tùy thích.",
     "More": "Sự kết hợp của chuối và bột pancake socola sẽ tạo ra món bánh thơm ngon. Làm nóng lò trước khi nướng giúp nhiệt độ ổn đinh, bánh nướng sẽ chín đều và nổi đẹp hơn."
   },
-  {
+  "Bánh rán trái cây": {
     "Name": "Bánh rán trái cây",
     "PictureName": "banh_ran_trai_cay",
     "Type": "ngot",
@@ -197,4 +197,4 @@
     "Use": "Bánh nhân dâu: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp dâu tây lên, xếp thêm 1 lớp bánh và chocolate, dâu tây như trên nữa để được 1 cặp bánh nhân dâu, rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi. Bánh nhân chuối: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp chuối lên, xếp thêm 1 lớp bánh và chocolate, chuối như trên nữa để được 1 cặp bánh nhân chuối, sau cùng rắc thêm một ít bột quế lên trên. rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi.",
     "More": "Cần đun cho chảo nóng đều sau đó mới giảm nhiệt độ xuống để bánh có màu đều và đẹp hơn. Khi đổ bột vào chảo, chỉ đổ vào một điểm để bột tự tràn ra tạo hình tròn thì bánh sẽ tròn đẹp. Vắt chanh lên chuối để chuối không bị xuống màu và dậy mùi thơm."
   }
-]
+}
