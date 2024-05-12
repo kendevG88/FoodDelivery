@@ -1,200 +1,207 @@
 {
-  "Ốc xào khế": {
-    "Name": "Ốc xào khế",
-    "PictureName": "oc_xao_khe",
-    "Type": "man",
-    "Description": "Gợi nhớ hương vị dân dã thân quen với món ốc bình dị. Thịt ốc dai giòn quyện cùng miếng khế ngọt cùng vị đặc trưng của tía tô và giấm tạo cho món ăn sức hấp dẫn kì lạ. Món ăn giàu khoáng chất và protein này sẽ giúp mang lại cho các thành viên thân yêu một ngày năng động, sảng khoái. Cùng Món Ngon Mỗi Ngày vào bếp nấu ngay món ốc xào khế nhé!",
-    "Ingredient": "Thịt ốc bươu : 200g \nKhế chua : 2 trái \nTía tô : 5 lá \nHành lá \nHành tím băm, tỏi băm \nNước nghệ tươi \nỚt sừng cắt sợi, ớt hiểm băm\nĂN KÈM: Cơm nóng Gia vị: Dầu ăn, muối, đường, nước mắm",
-    "PreliminaryTreatment": "Ốc sơ chế sạch với nước pha giấm, để ráo, ướp với 1/2M hành băm và 1/2M tỏi băm, 2M nước nghệ, 1M Giấm gạo lên men Ajinomoto, 1/2m muối, 1/2m bột ngọt AJI-NO-MOTO® và 2M nước để thấm 5-10 phút. Khế bỏ rìa, cắt ngang dầy 3mm. Hành lá cắt khúc 3cm, đầu hành chẻ dọc, tía tô cắt sợi 5mm. Khế xốc với 1m đường, ép ráo nước.",
-    "Make": "Phi thơm hành tím băm và đầu hành lá, cho ốc vào xào sơ với lửa lớn rồi trút ra để riêng. Tiếp tục xào khế, cho ốc vào trở lại, nêm 1/2M nước mắm, 2M nước thêm hành lá, ớt băm và ớt sợi vào trộn đều, tắt lửa.",
-    "Use": "Cho ốc ra dĩa, rắc tía tô lên mặt, dùng nóng với cơm.",
-    "More": "Xóc khế với đường giúp giảm vị chua, tăng thêm độ ngọt của khế, sau khi xào sẽ ngon hơn. Xào ốc với lửa to, trút ra sau đó mới trộn chung với khế xào giúp ốc chín giòn. Rửa ốc với giấm và xả sạch để ốc được sạch nhớt."
+  "types": {
+    "MAN": "man",
+    "NGOT": "ngot",
+    "NUOC": "nuoc"
   },
-  "Lẩu vịt hầm sả": {
-    "Name": "Lẩu vịt hầm sả",
-    "PictureName": "lau_vit_ham_xa",
-    "Type": "man",
-    "Description": "Những ngày cuối năm se lạnh hãy thưởng thức món lẩu thơm ngon với món lẩu vịt hầm sả. Nước lẩu chua, mặn, ngọt hài hòa cùng những miếng thịt vịt thấm vị, thơm mềm mùi sả sẽ giúp cả nhà hâm nóng cơ thể khi cùng quây quần bên nhau. Món ăn được dùng kèm với bún, rau muống và nấm, vô cùng hấp dẫn!",
-    "Ingredient": "Vịt xiêm: 1/2 con \nNước dừa tươi: 2 trái \nMăng chua: 300g \nNấm rơm: 100g \nSả cây: 6 cây \nGừng băm: 1M \nTỏi băm: 2M \nSả băm: 2M \nMàu dầu điều: 1m \nRau om, ngò gai, húng quế \nĂN KÈM: bún tươi, cơm, các loại rau: rau muống, rau nhút, kèo nèo Gia vị: đường, nước mắm, dầu ăn, dầu điều",
-    "PreliminaryTreatment": "Vịt làm sạch, tẩy mùi lông bằng rượu trắng và gừng, chặt miếng hơi to, ướp với 1M gừng băm, 2M sả băm, 1M tỏi băm 1m ớt băm, 1m bột ngọt AJI-NO-MOTO®, 3M Giấm gạo lên men, 1M đường, 2m hạt nêm Aji-ngon® Heo. Để thấm 15 phút. Măng chua sả sạch, vắt ráo. Nấm ngâm rửa sạch, khứa chữ thập đầu nấm hoặc cắt đôi. Sả cây đập giập, cắt khúc. Rau om, ngò gai, húng quế cắt nhỏ. Đong nước dừa tươi và nước cho đủ 2.5 lít để nấu lẩu.",
-    "Make": "Đun nóng 2M dầu ăn, phi thơm tỏi băm và sả cây, cho vịt vào xào săn, cho tiếp nấm rơm, măng chua xào chung cho thơm, cho nước dừa tươi và nước vào, 2M dầu điều, nêm 2m hạt nêm Aji-ngon® Heo, 1/2 chén Giấm gạo lên men, 1M đường, 1m bột ngọt AJI-NO-MOTO®, 2M dầu điều, nấu đến khi thịt vừa mềm, nêm thêm 2M nước mắm, nếm vị vừa ăn. thêm 1/2 lượng rau nêm.",
-    "Use": "Múc nước ra nồi lẩu, thêm rau nêm còn lại. Ăn kèm với bún, rau, chấm với nước mắm mặn và ớt cắt lát.",
-    "More": "Ướp vịt hơi đậm để sau khi nấu miếng vịt có vị vừa ăn, không bị nhạt. Xào săn thịt vịt kĩ với các gia vị để thấm trước khi cho nước vào, giúp món ăn thơm hơn. Khử mùi lông vịt với gừng và rượu trắng để vịt không bị hôi lông."
-  },
-  "Sườn chiên sốt mận": {
-    "Name": "Sườn chiên sốt mận",
-    "PictureName": "suon_chien_sot_man",
-    "Type": "man",
-    "Description": "Sườn mềm, ngọt, vỏ vàng giòn kết hợp với sốt mận thơm thơm. Cách làm món Sườn chiên xốt mận chua ngọt đậm đà sao cho sườn chín đều, không bị khô, nước sốt sánh, rau củ vừa chín tới thơm ngon hấp dẫn lại đơn giản.",
-    "Ingredient": "Sườn non: 500g \nỚt chuông đỏ: 1/2 trái \nỚt chuông xanh: 1/2 trái \nỚt chuông vàng: 1/2 trái \nHành tây: 1/2 củ \nGừng băm: 1M \nGừng nhỏ: 1 nhánh \nHành tím băm: 1M \nTỏi băm : 1M \nXốt mận: 3M \nGia vị: Dầu ăn, tiêu Hạt nêm Aji-ngon® Heo Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
-    "PreliminaryTreatment": "Hành tím, tỏi băm giã nhuyễn vắt lấy nước, giữ xác. Ướp sườn với 1m tiêu, nước hành tỏi, 1m hạt nêm Aji-ngon®, để thấm. Gừng đập dập. Cắt 3 loại ớt chuông và hành tây thành miếng hình thoi cạnh 2 cm. Pha 1 gói gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn với nước theo hướng dẫn trên bao bì.",
-    "Make": "Cho sườn, gừng và 1/2 chén nước vào nồi áp suất nấu 5phút từ lúc nước sôi, trút ra dĩa để nguội. Đun nóng dầu ăn, nhúng sườn vào hỗn hợp gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn đã pha, chiên sườn với lửa vừa đến khi chín vàng giòn, vớt ra để ráo dầu. Phi thơm hành, tỏi, gừng, cho ớt chuông và hành tây vào xào nhanh tay, nêm 1m hạt nêm Aji-ngon®. Thêm 3M xốt mận, 3M nước luộc sườn, nấu sôi, thêm sườn vào xóc đều.",
-    "Use": "Cho sườn ra dĩa, dùng với cơm trắng.",
-    "More": "Nấu sườn bằng nồi áp suất vừa tiết kiệm thời gian vừa giữ được vị ngọt trong sườn. Nấu sườn chung với gừng để thịt thơm hơn, tạo mùi thơm đặc trưng cho món ăn. Dùng nước luộc sườn để làm xốt giúp món ăn ngọt và đậm đà hơn."
-  },
-  "Trứng cút xào chua ngọt": {
-    "Name": "Trứng cút xào chua ngọt",
-    "PictureName": "trung_cut_xao_chua_ngot",
-    "Type": "man",
-    "Description": "Bữa cơm ấm nóng trở nên thật ngon lành, hấp dẫn với Trứng cút xào chua ngọt vô cùng kích thích vị giác! Trứng cút và rau củ được áo bộ chiên giòn, vừa giòn thanh, bùi bùi, vừa chua chua ngọt ngọt dễ ăn. Sau những món ăn hàng ngày quanh đi quẩn lại, hay những buổi tiệc tùng đầy thịt cá, thì đây sẽ là món ăn giúp bạn “đổi vị” cho cả nhà, ngay cả mấy nhóc cũng sẽ thích mê!",
-    "Ingredient": "Trứng cút: 10 quả \nHành tây: 1/4 củ \nNấm mèo ngâm: 4 tai \nỚt chuông đỏ : 1/4 trái \nBắp non : 100g \nCà chua : 1 trái \nRAU NÊM: Hành lá, rau răm, hành tím cắt lát \nĂN KÈM: cơm Gia vị: Đường, tiêu, tương ớt, dầu hào, dầu ăn Giấm gạo lên men Ajinomoto Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
-    "PreliminaryTreatment": "Trứng cút luộc chín, bóc vỏ. Hành tây cắt múi cau. Nấm mèo cắt miếng vừa ăn. Hành lá, rau răm cắt khúc. Ớt chuông cắt miếng vừa ăn. Cà chua cắt hạt lựu. Bắp non cắt xéo. Đun nóng dầu, cho trứng cút, bắp non lăn qua Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn, cho vào chảo chiên chín vàng, vớt ra để ráo.",
-    "Make": "Pha hỗn hợp xốt gồm: 1M đường, 2M giấm gạo lên men của Công ty Ajinomoto Việt Nam, 1M tương ớt, 1/2M dầu hào, 1/2M hạt nêm Aji-ngon và 1/2 chén nước, khuấy tan. Phi thơm 1M hành tím, cho cà chua, nấm mèo, ớt chuông vào xào mềm, cho tiếp bắp non, hành tây vào xào, cho trứng cút và hỗn hợp xốt đã pha vào, xào đến khi các loại rau củ vừa chín, cho hành lá, rau răm vào, tắt lửa.",
-    "Use": "Cho món ăn ra dĩa, rắc tiêu lên trên. Dùng nóng với cơm.",
-    "More": "Khi luộc trứng cút cho vào nước 1 ít muối, luộc từ nước lạnh giúp trứng dễ bóc vỏ và không bị vỡ. Tẩm bột trứng cút để sau khi xào xốt bám đều vào trứng"
-  },
-  "Lẩu cá viên nấu sấu": {
-    "Name": "Lẩu cá viên nấu sấu",
-    "PictureName": "lau_ca_vien_nau_sau",
-    "Type": "man",
-    "Description": "Lẩu cá viên nấu sấu có vị chua cay hài hòa, màu cam đỏ. Cách nấu lẩu cá sao cho viên thịt cá dai giòn, tạo hình đẹp. Sự pha trộn nhiều màu sắc của các nguyên liệu tươi đẹp sẽ khiến món ăn thêm hấp dẫn, lạ vị. Cùng vào bếp thực hiện ngay món ăn đổi vị mới lạ cho gia đình ngay nào!",
-    "Ingredient": "Giò sống: 100 g \nTrứng cút luộc: 10 trứng \nCá thác lác: 150 g \nTôm sú: 12 con \nĐậu hũ trắng: 2 miếng \nCà chua bi: 100 g \nSấu quả to: 12 quả \nNước dùng gà: 1,5l \nBắp non: 5 trái \nRAU ăn kèm lẩu, rau nêm: Nấm kim châm, bắp non, rau cần nước, rau kèo nèo, cọng súng, bông so đũa, ngò gai, rau om, húng quế, ớt sừng \nGia vị: Muối hạt, đường, 1m tiêu xay, 2M hành tỏi băm, dầu điều, tỏi phi, nước mắm. Hạt nêm Aji-ngon® Gà Bột ngọt AJI-NO-MOTO®",
-    "PreliminaryTreatment": "Trứng cút luộc: Bóc vỏ. Tôm sú: Luộc bóc vỏ chừa đuôi (size 40-50) Đậu hũ trắng: Cắt mỗi miếng làm 8",
-    "Make": "Làm viên giò sống – Tạo hình: Dùng hỗn hợp giò sống bọc lấy trứng cút, để trứng cút ló ra ngoài khoảng 1/4 trứng. Tạo hình viên cá thác lác: Tán nhuyễn cá trong tô bằng muỗng, thêm gia vị 1/3m bột ngọt Ajinomoto, 1/3m tiêu, 1/2m đường, 1/2m hạt nêm Ajingon Gà, 1/2M dầu ăn. Viên chả cá tròn cỡ viên giò gồm 1/2 con tôm phần có đuôi tôm, chỉa đuôi tôm lên trên. Nấu nước dùng lẩu: 1,5 lít nước dùng gà, Cho sấu vào nấu 2 phút rồi vớt ra dằm lấy nước chua cho vào nồi, thêm 2M dầu điều. Nêm gia vị: 1,5M đường, 1,5m bột ngọt Ajinomoto, 2m hạt nêm Ajingon Gà, 1m muối. Đun nước dùng cho sôi lại, cho cà chua bi, đậu hũ non vào, để các viên chả thịt chả cá trong vợt, nhúng vào nước dùng sôi cho vừa chín vớt ra, thêm 3M nước mắm, tỏi phi.",
-    "Use": "Trình bày các loại rau, nấm, đậu hũ, tôm sú, trứng cút còn lại và các loại rau nêm, ớt. Bày thêm bún, nước mắm và ớt cắt lát.",
-    "More": "Không nêm thêm gia vị vào giò sống, vì giò sống đã có gia vị. Nếu không có sấu có thể thay bằng nước cốt me chín."
-  },
-  "Mực xào đậu hà lan": {
-    "Name": "Mực xào đậu hà lan",
-    "PictureName": "muc_xao_dau_ha_lan",
-    "Type": "man",
-    "Description": "Đậm đà, thơm ngon, mực xào đậu Hà Lan là một món ăn bắt cơm nhưng lại rất dễ thực hiện và tiết kiệm thời gian. Không những thế, đây còn là món ăn với thành phần dinh dưỡng cân bằng, ít béo, giàu đạm.",
-    "Ingredient": "Mực sữa: 250g \nĐậu Hà Lan: 200g \nHành tây: 1 củ ( 90g ) \nỚt sừng cắt quả trám: 1 trái \nTỏi băm: 1M \nTương ớt: 1M \nRau răm: 20g \nNước tương Phú Sĩ\" 11g (1M ) \nHạt nêm Aji-ngon® Heo 2g (1/2m ) \nĐường 4g (1m) Giấm gạo lên men Ajinomoto 5g (1M) \nBột ngọt AJI-NO-MOTO® 6g (1/3m) \nĂN KÈM Cơm, Canh sườn non xuyên tiêu, Khổ qua nhồi nấm kho nước tương \nGIA VỊ: Muối, dầu ăn, tiêu, Hạt nêm Aji-ngon® Heo \nTráng miệng: Mận ",
-    "PreliminaryTreatment": "Mực sữa rửa sạch, để nguyên con. Pha hỗn hợp gia vị: 1/3m tiêu, 1/3m Bột ngọt AJI-NO-MOTO® , 1/2m hạt nêm Aji-ngon® Heo, 1m đường, 1M nước tương “Phú Sĩ”, 1M giấm gạo lên men Ajinomoto, 1M tương ớt. Đậu Hà Lan tước bỏ xơ, cắt xéo. Hành tây cắt múi cau. Rau răm cắt nhỏ. Chần sơ đậu Hà Lan trong nước sôi có chút muối, vớt ra ngâm đá, để ráo.",
-    "Make": "Phi thơm tỏi, cho mực vào xào lửa lớn, tiếp tục cho hành tây, đậu Hà Lan vào, cho hết hỗn hợp nước gia vị vào, tắt lửa. Cho ớt sừng, rau răm vào và rắc thêm 1 ít tỏi phi sẵn.",
-    "Use": "Cho ra dĩa. Dùng nóng với cơm.",
-    "More": "Pha hỗn hợp gia vị với nước tương “Phú Sĩ” để món ăn có màu đẹp và vị đậm đà hơn.  Chần đậu Hà Lan với nước có ít muối trước, giúp đậu giữ màu xanh đẹp và chín đều.  Ngâm và rửa sạch mực dưới vòi nước để loại sạch cát"
-  },
-  "Bắp cải tím trộn tôm": {
-    "Name": "Bắp cải tím trộn tôm",
-    "PictureName": "bap_cai_tim_tron_tom",
-    "Type": "man",
-    "Description": "Ngoài các loại rau để làm salad thông thường, bạn có thể dùng bắp cải tím thái mỏng để chế biến thành những món khai vị hấp dẫn. Thế nhưng, thái mỏng thôi chưa đủ làm món ăn ngon. Hãy cùng tìm hiểu những bí kíp bỏ túi của đầu bếp Món Ngon Mỗi Ngày với món ăn “Bắp cải tím trộn tôm” thơm ngon, hấp dẫn.",
-    "Ingredient": "Bắp cải tím: 200g \nĐậu trắng Đà Lạt tươi: 50g \nLá quế : 10 lá \nTôm bạc thẻ tươi : 200g \nDầu mè : 1m \nGia vị: Muối, tiêu, dầu mè Giấm gạo lên men",
-    "PreliminaryTreatment": "Bắp cải tím bào sợi mỏng, ngâm qua nước lạnh. Đậu trắng cho vào nồi luộc trong nước có một ít muối đến khi đậu mềm, vớt ra để ráo, xóc với ít muối và tiêu. Tôm luộc chín với chút muối, bóc vỏ bỏ đầu và đuôi. Vớt ra trộn với muối và tiêu.",
-    "Make": "Làm xốt: cho 3M Giấm gạo lên men và 3M đường vào tô, khuấy tan đường, thêm 1M nước lọc, 1m dầu mè, 1/4m muối, 1/2m tiêu vào trộn đều, sau đó thêm topping Mayonnaise Aji-mayo. Lấy 1M xốt trộn riêng với tôm. Trộn tôm với xốt, cho vào giữa dĩa. Tiếp tục trộn bắp cải tím với xốt. Xếp thành vòng tròn quanh dĩa. Cho đậu lên trên bắp cải, xen kẽ là những lá húng quế.",
-    "Use": "Khi ăn trộn đều.",
-    "More": "Bắp cải tím sau khi cắt sợi, ngâm qua nước đá lạnh để bắp cải bớt mùi hăng và giòn hơn. Trộn riêng tôm và bắp cải để giữ được màu đẹp cho tôm."
-  },
-  "Canh hàu sữa măng chua": {
-    "Name": "Canh hàu sữa măng chua",
-    "PictureName": "canh_hau_sua_mang_chua",
-    "Type": "man",
-    "Description": "Canh hàu sữa măng chua giòn giòn, thấm vị chua cay. Nước canh vừa màu cam đỏ hấp dẫn với vị ngọt của hàu, mọng nước, không dai và thơm mùi rau nêm. Cùng vào bếp với Món Ngon Mỗi Ngày để đổi vị món mới ngay cho cả nhà thôi nào!",
-    "Ingredient": "Hàu sữa to đã tách vỏ: 250g \nMăng chua: 200g \nCà chua chín đỏ: 1 trái to \nGia vị AjiQuick Lẩu Thái: 1/2 gói \nMỡ gáy: 100 g \nTỏi băm : 1/2 M \nRAU NÊM: Rau răm, lá lốt, hành lá, ớt xiêm xanh đỏ \nĂN KÈM: bún Gia vị: Đường, nước mắm",
-    "PreliminaryTreatment": "Sơ chế hàu sạch, để ráo nước, ướp hàu với 1M Gia vị nêm sẵn Aji-Quick® Lẩu Thái + 1/2m hạt nêm Heo. Thắng mỡ cho mỡ vào chảo + 1M nước thắng ra mỡ nước cho tỏi băm vào phi thơm. Múc tóp mỡ và xác tỏi ra chảo. Dùng tiếp 2M mỡ nước này đun nóng, cho măng chua vào xào thêm 1/2M đường + 1/2m hạt nêm Aji-ngon Heo cho măng đậm đà xào khoảng 3 phút.",
-    "Make": "Cho 1/2 gói Gia vị nêm sẵn Aji-Quick® Lẩu Thái vào nồi 1 lít nước, đun sôi cho gói tan đều. Cho măng vào nấu chín, thêm cà chua + 1M nước mắm, cuối cùng cho hàu vào 2′ tắt lửa. Nêm hành, răm lá lốt, ớt và tỏi phi.",
-    "Use": "Canh dùng nóng với cơm hoặc bún tươi cùng nước mắm + ớt, cho tóp mỡ, tỏi phi lên trên.",
-    "More": "Rửa và xả măng chua kỹ, kiêm tra độ chua trước khi nấu. Ướp hàu với gia vị AjiQuick Lẩu Thái giúp thấm vị, săn hơn, thơm hơn. Nấu hàu nhanh để giữ vị ngọt và hàu không bị nát."
-  },
-  "Sườn nướng tiêu": {
-    "Name": "Sườn nướng tiêu",
-    "PictureName": "suon_nuong_tieu",
-    "Type": "man",
-    "Description": "Bạn sẽ hài lòng khi thử công thức này! Sườn nướng tiêu chín vàng, thịt mềm, áo đều lớp xốt tiêu thơm nồng đậm đà nhờ vị cay đặc trưng của các loại tiêu – một sự kết hợp Á-Âu nhẹ nhàng và tinh tế. Đây là món nướng tuyệt vời dành tặng cho các bà nội trợ hay tuổi teen trổ tài thết đãi gia đình, bạn bè mà không phải mất nhiều thời gian để công phu chế biến!",
-    "Ingredient": "Sườn non: 600g \nTiêu xanh đập dập: 20g \nTiêu đen bể: 20g \nTiêu trắng bể: 20g \nMù tạt vàng \nBột tỏi, bột hành \nKhoai tây: 1 củ \nGia vị: Dầu ăn, dầu điều, dầu hào, mật ong, baking sodo, sữa chua có đường 1/2 hũ \nNước tương Phú Sĩ",
-    "PreliminaryTreatment": "Sườn chặt khúc 10cm, rạch 1 đường dọc ở giữa sườn. Xốt ướp: 1/3m baking soda, 1/2 hũ sữa chua có đường, bột tỏi 1m, bột hành 1m, cho 1M tiêu xanh, 1M tiêu đen bể, 1m hạt nêm Aji-ngon, 2M dầu hào, 2M nước tương “Phú Sĩ”, 3M mật ong và 1M dầu điều. Cho 1 chén nhỏ nước hấp sườn vào trộn đều, ướp với sườn qua đêm.",
-    "Make": "Xếp sườn lên vỉ, nướng 180°C trong 20 phút, rắc thêm tiêu trắng sau khi nướng. Khoai tây cắt múi cau, chiên giòn, ăn cùng sườn. Làm xốt: trộn đều hỗn hợp gồm 3M xốt mayonnaise “Aji-mayo” với 1M mù tạt vàng, 1 ít tiêu xanh băm và tiêu trắng.",
-    "Use": "Cho sườn ra dĩa, rắc lên thêm tiêu trắng xay, trang trí thêm xà lách, ăn kèm với xốt đã pha.",
-    "More": "Sự kết hợp giữa 3 loại tiêu tạo nên mùi thơm đặc trưng cho món nướng. Xẻ một đường dọc miếng sườn giúp khi ăn dễ hơn. Ướp sườn với sữa chua có đường để làm mềm sườn và thịt béo, ngon hơn."
-  },
-  "Blendy Kem Nho": {
-    "Name": "Blendy Kem Nho",
-    "PictureName": "kem_nho",
-    "Type": "nuoc",
-    "Description": "Ly trà sữa blendy kem nho mát lạnh nhiều màu sắc hấp dẫn giải khát ngày nắng nóng. Cùng Món Ngon Mỗi Ngày pha ngay ly trà sữa trái cây hương vị mới và thưởng thức thôi nào!",
-    "Ingredient": "Trà sữa Royal “Blendy: 2 gói \nNho xanh không hạt: 8 trái \nSữa tươi không đường: 80ml \nKem vani: 3 viên \nĐá bi: 120g \nSyrup socola: 1M \nRAU NÊM: Rau húng lủi",
-    "PreliminaryTreatment": "Cho 2 gói Trà sữa Royal “Blendy” vào cùng với 60ml nước sôi sau đó khuấy tan đều và để nguội.",
-    "Make": "Cho 6 quả nho vào ly cao sau đó dùng dụng cụ dầm cho nho mềm tiếp sau đó cho nước đá lên tiếp tục cho sữa tươi không đường vào, kế tiếp cho Trà sữa Royal “Blendy” vào trên cùng là 3 viên kem vani bên trên thêm 1 lớp sốt socola.  2 quả nho còn lại cắt đôi sau đó cho lên trên cùng với húng lủi trang trí.",
-    "Use": "",
-    "More": "Kết hợp với kem vani tạo hương vị béo nhẹ cho thức uống.  Trang trí bằng lớp sốt socola giúp thức uống hấp dẫn hơn.  Dầm nho dập giúp tạo hương vị đặc trưng cho thức uống."
-  },
-  "Blendy Gạo Rang Kem Chuối": {
-    "Name": "Blendy Gạo Rang Kem Chuối",
-    "PictureName": "gao_rang_kem_chuoi",
-    "Type": "nuoc",
-    "Description": "Hướng dẫn pha trà sữa Blendy gạo rang kem chuối béo thơm hương trà xanh cùng vị chuối laba giải nhiệt mùa nắng nóng.",
-    "Ingredient": "Blendy® Trà Matcha\nGạo Rang: 4 gói \nKem lạnh vani: 200g \nChuối laba: 1 quả \nKem sữa đánh bông: 100g \nĐậu phộng rang nâu: 1 thìa\nĂN KÈM: Dâu tây",
-    "PreliminaryTreatment": "Pha 4 gói Blendy® Trà Matcha Gạo Rang theo công thức hướng dẫn giữ lạnh. Chuối lột vỏ cắt nhỏ. Kem lạnh giữ đông, kem đánh cho vào bao bắt bông kem giữ lạnh. Đậu phộng rang cà bể đôi.",
-    "Make": "Cho nước trà xanh, chuối, kem lạnh vào máy sinh tố xay nhuyễn. Chế hỗn hợp trên ra ly, bắt bông kem lên trên. Rắc đậu phộng trên cùng. Trang trí vài lát dâu cắt hình trái tim.",
-    "Use": "",
-    "More": "Giữ lạnh hỗn hợp trà sau khi pha để đảm bảo độ lạnh của thức uống. Có thể thay chuối bằng loại hoa quả khác tùy thích."
-  },
-  "Trà Sữa Blendy Trái Cây": {
-    "Name": "Trà Sữa Blendy Trái Cây",
-    "PictureName": "tra_sua_trai_cay",
-    "Type": "nuoc",
-    "Description": "Trà sữa trái cây là một loại đồ uống phổ biến được pha chế từ trà, sữa, đường và trái cây tươi. Có rất nhiều cách pha chế trà sữa trái cây tuy nhiên bạn sẽ mất khá nhiều thời gian khi nấu trà sữa. Món Ngon Mỗi Ngày hướng dẫn bạn cách làm trà sữa trái cây đơn giản từ trà sữa blendy rất nhanh ngay khi lúc làm việc bận rộn hay tụ tập bạn bè mà có ngay ly trà sữa.  Trái cây giòn, ngọt, béo. Màu sắc trái cây nổi bật bên trên ly trà sữa. Vị thơm, ngọt, béo của trà sữa.",
-    "Ingredient": "Trà sữa Blendy Royal: 1 gói \nSyrup đào: 2m \nĐào ngâm: 20g \nDâu tây: 20g \nBơ chín: 20g \nNước cốt chanh: 1m \nĐọt húng lủi: 1 đọt \nGia vị: Nước cốt chanh 1m, Đọt húng lủi 1 đọt",
-    "PreliminaryTreatment": "",
-    "Make": "Pha trà sữa: Pha Blendy trà sữa Royal với 40 ml nước. Khi trà sữa còn nóng, pha đều từ từ với 10 ml (2m) syrup đào.  Cắt trái cây: Cắt vuông khoảng 1 cm gồm: đào ngâm, dâu tây, bơ. Ướp bơ với 1m nước cốt chanh.",
-    "Use": "Cho đá viên vào ly, chế trà sữa lên. Trên cùng topping trái cây cắt vuông và 1 đọt húng lủi.",
-    "More": "Pha trà sữa nóng từ từ vào syrup giúp dễ tan syrup hơn. Ướp nước cốt chanh vào bơ giúp giữ màu đẹp cho bơ. Pha trà hơi đặc để giữ đá tan chậm, tạo hình trà sữa hấp dẫn hơn."
-  },
-  "Trà sữa hoa đậu biếc": {
-    "Name": "Trà sữa hoa đậu biếc",
-    "PictureName": "tra_sua_hoa_dau_biec",
-    "Type": "nuoc",
-    "Description": "Hoa đậu biếc kết hợp cùng trà sữa Blendy tạo nên vị ngọt thanh cùng sắc xanh tím hấp dẫn, thêm chút Soda làm món thức uống ngon miệng hơn bao giờ hết!",
-    "Ingredient": "Hoa đậu biếc khô 10 hoa \nTrà Sữa Royal Blendy\" 2 gói \nSoda 1 lon \nĐá bi",
-    "PreliminaryTreatment": "Hoa đậu biếc ngâm với 50ml nước nóng, lọc lấy nước cốt. Pha 2 gói trà sữa Royal “Blendy” với 60ml nước sôi, khuấy tan, để nguội.",
-    "Make": "Cho đá vào ly, rót trà sữa vào, rót soda lên trên, cuối cùng cho cốt hoa đậu biếc lên trên cùng. Trang trí hoa đậu biếc",
-    "Use": "Khuấy đều và thưởng thức.",
-    "More": "Nên pha nước cốt hoa đậu biết hơi đậm màu, tạo tầng rõ và đẹp.  Giảm lượng nước pha trà sữa để khi thêm soda và nước hoa đậu biếc vào món nước sẽ cân bằng vị."
-  },
-  "Trà sữa trân châu đường đen": {
-    "Name": "Trà sữa trân châu đường đen",
-    "PictureName": "tra_sua_tran_chau_duong_den",
-    "Type": "nuoc",
-    "Description": "Cuối tuần rồi, mẹ làm món TRÀ SỮA TRÂN CHÂU ĐƯỜNG ĐEN đãi hội chị em thân thiết ngay thôi!!! Vị trà sữa béo, trân châu dai, giòn, cùng đường đen ngọt – thơm hòa quyện tuyệt hảo nhưng lại rất dễ làm cho câu chuyện cuối tuần thêm thú vị.",
-    "Ingredient": "Trà sữa Royal Blendy 8 gói \nTrân châu đen (khô) 50g \nSữa tươi không đường 100ml \nĐường đen 50g \nDụng cụ: bình lắc, dụng cụ đong 25-30ml",
-    "PreliminaryTreatment": "Cho đường đen vào nồi với 1 chén súp nước nóng, nấu sôi khuấy cho đường tan hết thì tắt lửa. Luộc trân châu: luộc trân châu theo hướng dẫn trên bao bì, khi chín vướt ra ngâm vào nước đường đen 10 phút.",
-    "Make": "Pha 1 ly trà sữa: cho vào bình lắc 2 gói trà sữa Royal Blendy, thêm 80ml nước sôi, khuấy tan trà sữa, thêm 50ml sữa tươi không đường và đá viên, đậy nắp, lắc đều. Đổ ra ly. Tiếp tục pha các ly còn lại.",
-    "Use": "Trình bày: Đổ trà sữa ra ly, thêm trân châu đường đen vào, trang trí với ống hút và muỗng khuấy.",
-    "More": "Luộc trân châu chín hẳn mới ngâm vào đường, giúp trân châu có độ chín dẻo. Trân châu luộc xong cho ngay vào nước đường để trân châu thấm vị ngọt."
-  },
-  "Bánh đồng xu phô mai": {
-    "Name": "Bánh đồng xu phô mai",
-    "PictureName": "banh_dong_xu_pho_mai",
-    "Type": "ngot",
-    "Description": "Bánh mềm xốt, bên trong đầy phô mai kéo sợi thơm ngon. Mau vào bếp làm ngay món Bánh đồng xu đang cực hot thôi nào!",
-    "Ingredient": "Phô mai mozzarella : 100gr \nBơ lạt: 25 gr \nNước: 140gr \nBột bánh rán pha sẵn vị truyền thống",
-    "PreliminaryTreatment": "Pha bột: trộn đều 1 gói bột bánh rán với 140gr nước. Phô mai: cắt miếng vuông (5cmx5cmx0.8cm), mỗi miếng ~20gr.",
-    "Make": "Rán bánh:  Lớp bánh thứ 1: làm nóng chảo -> hạ nhiệt chảo bằng khăn ướt -> phết 1 lớp bơ mỏng lên chảo -> cho 1 vá bột vào chảo (dùng vá dàn mỏng bột, tạo hình tròn đường kính ~10cm), rán bánh khoảng 1 phút, bánh se mặt thì lấy ra dĩa. Lớp bánh thứ 2: Tiếp tục hạ nhiệt chảo -> phết 1 lớp bơ mỏng lên chảo -> cho 2/3 vá bột vào chảo, đặt phô mai vào giữa mặt bánh, tiếp tục xếp lớp bánh thứ nhất đã rán trước đó lên trên -> đậy nắp chảo, rán trong vòng 1 phút, đến khi bánh chín.",
-    "Use": "",
-    "More": "Rán bánh với mức lửa nhỏ nhất để bánh chín và vàng đều.  Sử dụng chảo đáy dầy để tỏa nhiệt đều, bánh sẽ chín đều và ngon hơn."
-  },
-  "Bánh mì hạnh nhân": {
-    "Name": "Bánh mì hạnh nhân",
-    "PictureName": "banh_mi_hanh_nhan",
-    "Type": "ngot",
-    "Description": "Bữa sáng với bánh mì hạnh nhân vừa nhanh đơn giản lại đảm bảo dinh dưỡng cho cả gia đình. Bánh bám phủ đều hạnh nhân, cạnh giòn bên ngoài mềm bên trong. Có màu vàng nâu của hạnh nhân, màu vàng của trứng. Vị ngọt béo từ nhân bên trong đến sốt mayonnaise bên ngoài.",
-    "Ingredient": "Bánh mì trắng (sandwich): 4 lát\nMứt cam: 40g \nPhô mai kem ( cream cheese): 50g \nHạnh nhân lát: 100g \nTrứng gà: 2 quả \nDâu ngọt: 4 quả \nĐường xay: 10g \nHúng lủi: 2 đọt \nBơ lạt: 20g \nXốt Mayonnaise Aji-mayo® Vị Ngọt Dịu",
-    "PreliminaryTreatment": "Phết cream cheese lên 1 mặt 2 miếng bánh mì. 2 miếng còn lại phết mứt cam. Kẹp 2 miếng lại với nhau, cẳt bỏ rìa, cắt 1/2 theo đường chéo. Trứng gà đánh tan",
-    "Make": "Chuẩn bị chảo nóng, cho ít bơ vào đun chảy. Nhúng nhanh từng miếng bánh vào trứng rồi cho vào hạnh nhân áo phủ đều bên ngoài, cho vào chảo chiên nhỏ lửa, trở đều các mặt đến khi hạnh nhân vàng bên ngoài và trứng chín bên trong. Bắt Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu lên bánh mì.",
-    "Use": "Cho bánh ra đĩa, ray đường bột lên trên, bắt chỉ Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu và mật ong trên cùng. Trang trí với dâu tây và húng lủi.",
-    "More": "Phết cream cheese để 2 miếng bánh mì được kết chặt vào nhau.  Cắt đôi theo đường chéo tạo cảm giác miếng bánh được to hơn.  Nhúng nhanh bánh qua trứng để bánh không bị nhũng, chiên trứng sẽ khó chín bên trong."
-  },
-  "Bánh muffin chuối socola": {
-    "Name": "Bánh muffin chuối socola",
-    "PictureName": "banh_muffin",
-    "Type": "ngot",
-    "Description": "Bánh muffin chuối socola sự kết hợp mùi thơm béo của bơ, chuối và quế, với vị chua nhẹ của chanh hòa lẫn vị ngọt của socola tỏa ra từ lớp bánh mềm mịn, thêm ly trà nữa là ngất ngây. Cuối tuần rảnh rỗi, ngại gì mà không thử ngay món tráng miệng hấp dẫn này nhỉ?",
-    "Ingredient": "Trứng gà: 2 quả \nChuối già hương: 2 trái (1 trái cắt lát, phần còn lại cắt nhỏ, vắt 1/2M nước cốt chanh vào) \nBơ lạt: 100g \nSocola hạt: 30g Bột quế: 1/3 thìa \nChanh: 1 miếng (lấy nước 1/2M)",
-    "PreliminaryTreatment": "Chuối già hương: 1 trái cắt lát, phần còn lại cắt nhỏ, vắt 1/2M nước cốt chanh vào. Bơ để mềm, sau đó dùng máy đánh trứng đánh bông, tiếp tục trộn trứng, chuối cắt nhỏ và cuối cùng trộn 1 gói bột pancake chocolate, 1/3m bột quế.",
-    "Make": "Cho hỗn hợp vào ly cupcake, xếp vài lát chuối, rắc vài hạt socola lên bánh, lên chuối. Làm nóng lò ở 170 độ, nướng bánh khoảng 25 – 30 phút.",
-    "Use": "Xếp bánh ra dĩa. Có thể dùng nóng hoặc nguội tùy thích.",
-    "More": "Sự kết hợp của chuối và bột pancake socola sẽ tạo ra món bánh thơm ngon. Làm nóng lò trước khi nướng giúp nhiệt độ ổn đinh, bánh nướng sẽ chín đều và nổi đẹp hơn."
-  },
-  "Bánh rán trái cây": {
-    "Name": "Bánh rán trái cây",
-    "PictureName": "banh_ran_trai_cay",
-    "Type": "ngot",
-    "Description": "Món bánh rán trái cây này đảm bảo hấp dẫn các bé, thậm chí người lớn cũng sẽ thích! Bánh tròn vàng nâu đẹp mắt, thơm đặc trưng mùi bánh rán với vị béo nhẹ và có độ xốp, kết hợp với trái cây và sốt sô cô la tạo nên món tráng miệng vô cùng tuyệt vời. Bánh có thể kết hợp với nhiều loại mứt và trái cây để bạn tha hồ biến tấu!",
-    "Ingredient": "Dâu tươi: 200g (10 quả) \nChuối: 1 quả \nSocola (dạng lỏng) \nBột quế : 1thìa \nChanh xanh: 1 trái (lấy nước cốt & mài vỏ) \nGia vị: đường bột, húng lủi trang trí \nBột bánh rán pha sẵn vị truyền thống",
-    "PreliminaryTreatment": "Chanh mài lấy vỏ chanh và vắt lấy nước cốt chanh. Dâu tây cắt lát mỏng. Chuối cắt lát mỏng, vắt 1m nước cốt chanh lên trên. Chuẩn bị sẵn khăn ướt.",
-    "Make": "Cho 200g bột bánh rán vào tô, thêm vào 140ml nước lọc, khuấy đều. Cho chảo không dính lên bếp đun nóng, đặt chảo lên xấp khăn ướt cho chảo nguội bớt rồi chuyển lại lên bếp, giảm lửa nhỏ, dùng vá múc bột đổ vào giữa chảo, đợi mặt bánh se lại, bánh nổi những bong bóng nhỏ thì dùng sạn nhựa lật mặt bánh lại, rán thêm vài phút cho mặt bánh chín thì lấy ra dĩa.",
-    "Use": "Bánh nhân dâu: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp dâu tây lên, xếp thêm 1 lớp bánh và chocolate, dâu tây như trên nữa để được 1 cặp bánh nhân dâu, rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi. Bánh nhân chuối: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp chuối lên, xếp thêm 1 lớp bánh và chocolate, chuối như trên nữa để được 1 cặp bánh nhân chuối, sau cùng rắc thêm một ít bột quế lên trên. rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi.",
-    "More": "Cần đun cho chảo nóng đều sau đó mới giảm nhiệt độ xuống để bánh có màu đều và đẹp hơn. Khi đổ bột vào chảo, chỉ đổ vào một điểm để bột tự tràn ra tạo hình tròn thì bánh sẽ tròn đẹp. Vắt chanh lên chuối để chuối không bị xuống màu và dậy mùi thơm."
+  "foods": {
+    "Ốc xào khế": {
+      "Name": "Ốc xào khế",
+      "PictureName": "oc_xao_khe",
+      "Type": "man",
+      "Description": "Gợi nhớ hương vị dân dã thân quen với món ốc bình dị. Thịt ốc dai giòn quyện cùng miếng khế ngọt cùng vị đặc trưng của tía tô và giấm tạo cho món ăn sức hấp dẫn kì lạ. Món ăn giàu khoáng chất và protein này sẽ giúp mang lại cho các thành viên thân yêu một ngày năng động, sảng khoái. Cùng Món Ngon Mỗi Ngày vào bếp nấu ngay món ốc xào khế nhé!",
+      "Ingredient": "Thịt ốc bươu : 200g \nKhế chua : 2 trái \nTía tô : 5 lá \nHành lá \nHành tím băm, tỏi băm \nNước nghệ tươi \nỚt sừng cắt sợi, ớt hiểm băm\nĂN KÈM: Cơm nóng Gia vị: Dầu ăn, muối, đường, nước mắm",
+      "PreliminaryTreatment": "Ốc sơ chế sạch với nước pha giấm, để ráo, ướp với 1/2M hành băm và 1/2M tỏi băm, 2M nước nghệ, 1M Giấm gạo lên men Ajinomoto, 1/2m muối, 1/2m bột ngọt AJI-NO-MOTO® và 2M nước để thấm 5-10 phút. Khế bỏ rìa, cắt ngang dầy 3mm. Hành lá cắt khúc 3cm, đầu hành chẻ dọc, tía tô cắt sợi 5mm. Khế xốc với 1m đường, ép ráo nước.",
+      "Make": "Phi thơm hành tím băm và đầu hành lá, cho ốc vào xào sơ với lửa lớn rồi trút ra để riêng. Tiếp tục xào khế, cho ốc vào trở lại, nêm 1/2M nước mắm, 2M nước thêm hành lá, ớt băm và ớt sợi vào trộn đều, tắt lửa.",
+      "Use": "Cho ốc ra dĩa, rắc tía tô lên mặt, dùng nóng với cơm.",
+      "More": "Xóc khế với đường giúp giảm vị chua, tăng thêm độ ngọt của khế, sau khi xào sẽ ngon hơn. Xào ốc với lửa to, trút ra sau đó mới trộn chung với khế xào giúp ốc chín giòn. Rửa ốc với giấm và xả sạch để ốc được sạch nhớt."
+    },
+    "Lẩu vịt hầm sả": {
+      "Name": "Lẩu vịt hầm sả",
+      "PictureName": "lau_vit_ham_xa",
+      "Type": "man",
+      "Description": "Những ngày cuối năm se lạnh hãy thưởng thức món lẩu thơm ngon với món lẩu vịt hầm sả. Nước lẩu chua, mặn, ngọt hài hòa cùng những miếng thịt vịt thấm vị, thơm mềm mùi sả sẽ giúp cả nhà hâm nóng cơ thể khi cùng quây quần bên nhau. Món ăn được dùng kèm với bún, rau muống và nấm, vô cùng hấp dẫn!",
+      "Ingredient": "Vịt xiêm: 1/2 con \nNước dừa tươi: 2 trái \nMăng chua: 300g \nNấm rơm: 100g \nSả cây: 6 cây \nGừng băm: 1M \nTỏi băm: 2M \nSả băm: 2M \nMàu dầu điều: 1m \nRau om, ngò gai, húng quế \nĂN KÈM: bún tươi, cơm, các loại rau: rau muống, rau nhút, kèo nèo Gia vị: đường, nước mắm, dầu ăn, dầu điều",
+      "PreliminaryTreatment": "Vịt làm sạch, tẩy mùi lông bằng rượu trắng và gừng, chặt miếng hơi to, ướp với 1M gừng băm, 2M sả băm, 1M tỏi băm 1m ớt băm, 1m bột ngọt AJI-NO-MOTO®, 3M Giấm gạo lên men, 1M đường, 2m hạt nêm Aji-ngon® Heo. Để thấm 15 phút. Măng chua sả sạch, vắt ráo. Nấm ngâm rửa sạch, khứa chữ thập đầu nấm hoặc cắt đôi. Sả cây đập giập, cắt khúc. Rau om, ngò gai, húng quế cắt nhỏ. Đong nước dừa tươi và nước cho đủ 2.5 lít để nấu lẩu.",
+      "Make": "Đun nóng 2M dầu ăn, phi thơm tỏi băm và sả cây, cho vịt vào xào săn, cho tiếp nấm rơm, măng chua xào chung cho thơm, cho nước dừa tươi và nước vào, 2M dầu điều, nêm 2m hạt nêm Aji-ngon® Heo, 1/2 chén Giấm gạo lên men, 1M đường, 1m bột ngọt AJI-NO-MOTO®, 2M dầu điều, nấu đến khi thịt vừa mềm, nêm thêm 2M nước mắm, nếm vị vừa ăn. thêm 1/2 lượng rau nêm.",
+      "Use": "Múc nước ra nồi lẩu, thêm rau nêm còn lại. Ăn kèm với bún, rau, chấm với nước mắm mặn và ớt cắt lát.",
+      "More": "Ướp vịt hơi đậm để sau khi nấu miếng vịt có vị vừa ăn, không bị nhạt. Xào săn thịt vịt kĩ với các gia vị để thấm trước khi cho nước vào, giúp món ăn thơm hơn. Khử mùi lông vịt với gừng và rượu trắng để vịt không bị hôi lông."
+    },
+    "Sườn chiên sốt mận": {
+      "Name": "Sườn chiên sốt mận",
+      "PictureName": "suon_chien_sot_man",
+      "Type": "man",
+      "Description": "Sườn mềm, ngọt, vỏ vàng giòn kết hợp với sốt mận thơm thơm. Cách làm món Sườn chiên xốt mận chua ngọt đậm đà sao cho sườn chín đều, không bị khô, nước sốt sánh, rau củ vừa chín tới thơm ngon hấp dẫn lại đơn giản.",
+      "Ingredient": "Sườn non: 500g \nỚt chuông đỏ: 1/2 trái \nỚt chuông xanh: 1/2 trái \nỚt chuông vàng: 1/2 trái \nHành tây: 1/2 củ \nGừng băm: 1M \nGừng nhỏ: 1 nhánh \nHành tím băm: 1M \nTỏi băm : 1M \nXốt mận: 3M \nGia vị: Dầu ăn, tiêu Hạt nêm Aji-ngon® Heo Gia vị nêm sẵn Aji-Quick® Bột chiên giòn",
+      "PreliminaryTreatment": "Hành tím, tỏi băm giã nhuyễn vắt lấy nước, giữ xác. Ướp sườn với 1m tiêu, nước hành tỏi, 1m hạt nêm Aji-ngon®, để thấm. Gừng đập dập. Cắt 3 loại ớt chuông và hành tây thành miếng hình thoi cạnh 2 cm. Pha 1 gói gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn với nước theo hướng dẫn trên bao bì.",
+      "Make": "Cho sườn, gừng và 1/2 chén nước vào nồi áp suất nấu 5phút từ lúc nước sôi, trút ra dĩa để nguội. Đun nóng dầu ăn, nhúng sườn vào hỗn hợp gia vị nêm sẵn Aji-Quick® Bột Chiên Giòn đã pha, chiên sườn với lửa vừa đến khi chín vàng giòn, vớt ra để ráo dầu. Phi thơm hành, tỏi, gừng, cho ớt chuông và hành tây vào xào nhanh tay, nêm 1m hạt nêm Aji-ngon®. Thêm 3M xốt mận, 3M nước luộc sườn, nấu sôi, thêm sườn vào xóc đều.",
+      "Use": "Cho sườn ra dĩa, dùng với cơm trắng.",
+      "More": "Nấu sườn bằng nồi áp suất vừa tiết kiệm thời gian vừa giữ được vị ngọt trong sườn. Nấu sườn chung với gừng để thịt thơm hơn, tạo mùi thơm đặc trưng cho món ăn. Dùng nước luộc sườn để làm xốt giúp món ăn ngọt và đậm đà hơn."
+    },
+    "Trứng cút xào chua ngọt": {
+      "Name": "Trứng cút xào chua ngọt",
+      "PictureName": "trung_cut_xao_chua_ngot",
+      "Type": "man",
+      "Description": "Bữa cơm ấm nóng trở nên thật ngon lành, hấp dẫn với Trứng cút xào chua ngọt vô cùng kích thích vị giác! Trứng cút và rau củ được áo bộ chiên giòn, vừa giòn thanh, bùi bùi, vừa chua chua ngọt ngọt dễ ăn. Sau những món ăn hàng ngày quanh đi quẩn lại, hay những buổi tiệc tùng đầy thịt cá, thì đây sẽ là món ăn giúp bạn “đổi vị” cho cả nhà, ngay cả mấy nhóc cũng sẽ thích mê!",
+      "Ingredient": "Trứng cút: 10 quả \nHành tây: 1/4 củ \nNấm mèo ngâm: 4 tai \nỚt chuông đỏ : 1/4 trái \nBắp non : 100g \nCà chua : 1 trái \nRAU NÊM: Hành lá, rau răm, hành tím cắt lát \nĂN KÈM: cơm Gia vị: Đường, tiêu, tương ớt, dầu hào, dầu ăn Giấm gạo lên men Ajinomoto Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn",
+      "PreliminaryTreatment": "Trứng cút luộc chín, bóc vỏ. Hành tây cắt múi cau. Nấm mèo cắt miếng vừa ăn. Hành lá, rau răm cắt khúc. Ớt chuông cắt miếng vừa ăn. Cà chua cắt hạt lựu. Bắp non cắt xéo. Đun nóng dầu, cho trứng cút, bắp non lăn qua Gia vị nêm sẵn Aji-Quick® Bột tẩm khô chiên giòn, cho vào chảo chiên chín vàng, vớt ra để ráo.",
+      "Make": "Pha hỗn hợp xốt gồm: 1M đường, 2M giấm gạo lên men của Công ty Ajinomoto Việt Nam, 1M tương ớt, 1/2M dầu hào, 1/2M hạt nêm Aji-ngon và 1/2 chén nước, khuấy tan. Phi thơm 1M hành tím, cho cà chua, nấm mèo, ớt chuông vào xào mềm, cho tiếp bắp non, hành tây vào xào, cho trứng cút và hỗn hợp xốt đã pha vào, xào đến khi các loại rau củ vừa chín, cho hành lá, rau răm vào, tắt lửa.",
+      "Use": "Cho món ăn ra dĩa, rắc tiêu lên trên. Dùng nóng với cơm.",
+      "More": "Khi luộc trứng cút cho vào nước 1 ít muối, luộc từ nước lạnh giúp trứng dễ bóc vỏ và không bị vỡ. Tẩm bột trứng cút để sau khi xào xốt bám đều vào trứng"
+    },
+    "Lẩu cá viên nấu sấu": {
+      "Name": "Lẩu cá viên nấu sấu",
+      "PictureName": "lau_ca_vien_nau_sau",
+      "Type": "man",
+      "Description": "Lẩu cá viên nấu sấu có vị chua cay hài hòa, màu cam đỏ. Cách nấu lẩu cá sao cho viên thịt cá dai giòn, tạo hình đẹp. Sự pha trộn nhiều màu sắc của các nguyên liệu tươi đẹp sẽ khiến món ăn thêm hấp dẫn, lạ vị. Cùng vào bếp thực hiện ngay món ăn đổi vị mới lạ cho gia đình ngay nào!",
+      "Ingredient": "Giò sống: 100 g \nTrứng cút luộc: 10 trứng \nCá thác lác: 150 g \nTôm sú: 12 con \nĐậu hũ trắng: 2 miếng \nCà chua bi: 100 g \nSấu quả to: 12 quả \nNước dùng gà: 1,5l \nBắp non: 5 trái \nRAU ăn kèm lẩu, rau nêm: Nấm kim châm, bắp non, rau cần nước, rau kèo nèo, cọng súng, bông so đũa, ngò gai, rau om, húng quế, ớt sừng \nGia vị: Muối hạt, đường, 1m tiêu xay, 2M hành tỏi băm, dầu điều, tỏi phi, nước mắm. Hạt nêm Aji-ngon® Gà Bột ngọt AJI-NO-MOTO®",
+      "PreliminaryTreatment": "Trứng cút luộc: Bóc vỏ. Tôm sú: Luộc bóc vỏ chừa đuôi (size 40-50) Đậu hũ trắng: Cắt mỗi miếng làm 8",
+      "Make": "Làm viên giò sống – Tạo hình: Dùng hỗn hợp giò sống bọc lấy trứng cút, để trứng cút ló ra ngoài khoảng 1/4 trứng. Tạo hình viên cá thác lác: Tán nhuyễn cá trong tô bằng muỗng, thêm gia vị 1/3m bột ngọt Ajinomoto, 1/3m tiêu, 1/2m đường, 1/2m hạt nêm Ajingon Gà, 1/2M dầu ăn. Viên chả cá tròn cỡ viên giò gồm 1/2 con tôm phần có đuôi tôm, chỉa đuôi tôm lên trên. Nấu nước dùng lẩu: 1,5 lít nước dùng gà, Cho sấu vào nấu 2 phút rồi vớt ra dằm lấy nước chua cho vào nồi, thêm 2M dầu điều. Nêm gia vị: 1,5M đường, 1,5m bột ngọt Ajinomoto, 2m hạt nêm Ajingon Gà, 1m muối. Đun nước dùng cho sôi lại, cho cà chua bi, đậu hũ non vào, để các viên chả thịt chả cá trong vợt, nhúng vào nước dùng sôi cho vừa chín vớt ra, thêm 3M nước mắm, tỏi phi.",
+      "Use": "Trình bày các loại rau, nấm, đậu hũ, tôm sú, trứng cút còn lại và các loại rau nêm, ớt. Bày thêm bún, nước mắm và ớt cắt lát.",
+      "More": "Không nêm thêm gia vị vào giò sống, vì giò sống đã có gia vị. Nếu không có sấu có thể thay bằng nước cốt me chín."
+    },
+    "Mực xào đậu hà lan": {
+      "Name": "Mực xào đậu hà lan",
+      "PictureName": "muc_xao_dau_ha_lan",
+      "Type": "man",
+      "Description": "Đậm đà, thơm ngon, mực xào đậu Hà Lan là một món ăn bắt cơm nhưng lại rất dễ thực hiện và tiết kiệm thời gian. Không những thế, đây còn là món ăn với thành phần dinh dưỡng cân bằng, ít béo, giàu đạm.",
+      "Ingredient": "Mực sữa: 250g \nĐậu Hà Lan: 200g \nHành tây: 1 củ ( 90g ) \nỚt sừng cắt quả trám: 1 trái \nTỏi băm: 1M \nTương ớt: 1M \nRau răm: 20g \nNước tương Phú Sĩ\" 11g (1M ) \nHạt nêm Aji-ngon® Heo 2g (1/2m ) \nĐường 4g (1m) Giấm gạo lên men Ajinomoto 5g (1M) \nBột ngọt AJI-NO-MOTO® 6g (1/3m) \nĂN KÈM Cơm, Canh sườn non xuyên tiêu, Khổ qua nhồi nấm kho nước tương \nGIA VỊ: Muối, dầu ăn, tiêu, Hạt nêm Aji-ngon® Heo \nTráng miệng: Mận ",
+      "PreliminaryTreatment": "Mực sữa rửa sạch, để nguyên con. Pha hỗn hợp gia vị: 1/3m tiêu, 1/3m Bột ngọt AJI-NO-MOTO® , 1/2m hạt nêm Aji-ngon® Heo, 1m đường, 1M nước tương “Phú Sĩ”, 1M giấm gạo lên men Ajinomoto, 1M tương ớt. Đậu Hà Lan tước bỏ xơ, cắt xéo. Hành tây cắt múi cau. Rau răm cắt nhỏ. Chần sơ đậu Hà Lan trong nước sôi có chút muối, vớt ra ngâm đá, để ráo.",
+      "Make": "Phi thơm tỏi, cho mực vào xào lửa lớn, tiếp tục cho hành tây, đậu Hà Lan vào, cho hết hỗn hợp nước gia vị vào, tắt lửa. Cho ớt sừng, rau răm vào và rắc thêm 1 ít tỏi phi sẵn.",
+      "Use": "Cho ra dĩa. Dùng nóng với cơm.",
+      "More": "Pha hỗn hợp gia vị với nước tương “Phú Sĩ” để món ăn có màu đẹp và vị đậm đà hơn.  Chần đậu Hà Lan với nước có ít muối trước, giúp đậu giữ màu xanh đẹp và chín đều.  Ngâm và rửa sạch mực dưới vòi nước để loại sạch cát"
+    },
+    "Bắp cải tím trộn tôm": {
+      "Name": "Bắp cải tím trộn tôm",
+      "PictureName": "bap_cai_tim_tron_tom",
+      "Type": "man",
+      "Description": "Ngoài các loại rau để làm salad thông thường, bạn có thể dùng bắp cải tím thái mỏng để chế biến thành những món khai vị hấp dẫn. Thế nhưng, thái mỏng thôi chưa đủ làm món ăn ngon. Hãy cùng tìm hiểu những bí kíp bỏ túi của đầu bếp Món Ngon Mỗi Ngày với món ăn “Bắp cải tím trộn tôm” thơm ngon, hấp dẫn.",
+      "Ingredient": "Bắp cải tím: 200g \nĐậu trắng Đà Lạt tươi: 50g \nLá quế : 10 lá \nTôm bạc thẻ tươi : 200g \nDầu mè : 1m \nGia vị: Muối, tiêu, dầu mè Giấm gạo lên men",
+      "PreliminaryTreatment": "Bắp cải tím bào sợi mỏng, ngâm qua nước lạnh. Đậu trắng cho vào nồi luộc trong nước có một ít muối đến khi đậu mềm, vớt ra để ráo, xóc với ít muối và tiêu. Tôm luộc chín với chút muối, bóc vỏ bỏ đầu và đuôi. Vớt ra trộn với muối và tiêu.",
+      "Make": "Làm xốt: cho 3M Giấm gạo lên men và 3M đường vào tô, khuấy tan đường, thêm 1M nước lọc, 1m dầu mè, 1/4m muối, 1/2m tiêu vào trộn đều, sau đó thêm topping Mayonnaise Aji-mayo. Lấy 1M xốt trộn riêng với tôm. Trộn tôm với xốt, cho vào giữa dĩa. Tiếp tục trộn bắp cải tím với xốt. Xếp thành vòng tròn quanh dĩa. Cho đậu lên trên bắp cải, xen kẽ là những lá húng quế.",
+      "Use": "Khi ăn trộn đều.",
+      "More": "Bắp cải tím sau khi cắt sợi, ngâm qua nước đá lạnh để bắp cải bớt mùi hăng và giòn hơn. Trộn riêng tôm và bắp cải để giữ được màu đẹp cho tôm."
+    },
+    "Canh hàu sữa măng chua": {
+      "Name": "Canh hàu sữa măng chua",
+      "PictureName": "canh_hau_sua_mang_chua",
+      "Type": "man",
+      "Description": "Canh hàu sữa măng chua giòn giòn, thấm vị chua cay. Nước canh vừa màu cam đỏ hấp dẫn với vị ngọt của hàu, mọng nước, không dai và thơm mùi rau nêm. Cùng vào bếp với Món Ngon Mỗi Ngày để đổi vị món mới ngay cho cả nhà thôi nào!",
+      "Ingredient": "Hàu sữa to đã tách vỏ: 250g \nMăng chua: 200g \nCà chua chín đỏ: 1 trái to \nGia vị AjiQuick Lẩu Thái: 1/2 gói \nMỡ gáy: 100 g \nTỏi băm : 1/2 M \nRAU NÊM: Rau răm, lá lốt, hành lá, ớt xiêm xanh đỏ \nĂN KÈM: bún Gia vị: Đường, nước mắm",
+      "PreliminaryTreatment": "Sơ chế hàu sạch, để ráo nước, ướp hàu với 1M Gia vị nêm sẵn Aji-Quick® Lẩu Thái + 1/2m hạt nêm Heo. Thắng mỡ cho mỡ vào chảo + 1M nước thắng ra mỡ nước cho tỏi băm vào phi thơm. Múc tóp mỡ và xác tỏi ra chảo. Dùng tiếp 2M mỡ nước này đun nóng, cho măng chua vào xào thêm 1/2M đường + 1/2m hạt nêm Aji-ngon Heo cho măng đậm đà xào khoảng 3 phút.",
+      "Make": "Cho 1/2 gói Gia vị nêm sẵn Aji-Quick® Lẩu Thái vào nồi 1 lít nước, đun sôi cho gói tan đều. Cho măng vào nấu chín, thêm cà chua + 1M nước mắm, cuối cùng cho hàu vào 2′ tắt lửa. Nêm hành, răm lá lốt, ớt và tỏi phi.",
+      "Use": "Canh dùng nóng với cơm hoặc bún tươi cùng nước mắm + ớt, cho tóp mỡ, tỏi phi lên trên.",
+      "More": "Rửa và xả măng chua kỹ, kiêm tra độ chua trước khi nấu. Ướp hàu với gia vị AjiQuick Lẩu Thái giúp thấm vị, săn hơn, thơm hơn. Nấu hàu nhanh để giữ vị ngọt và hàu không bị nát."
+    },
+    "Sườn nướng tiêu": {
+      "Name": "Sườn nướng tiêu",
+      "PictureName": "suon_nuong_tieu",
+      "Type": "man",
+      "Description": "Bạn sẽ hài lòng khi thử công thức này! Sườn nướng tiêu chín vàng, thịt mềm, áo đều lớp xốt tiêu thơm nồng đậm đà nhờ vị cay đặc trưng của các loại tiêu – một sự kết hợp Á-Âu nhẹ nhàng và tinh tế. Đây là món nướng tuyệt vời dành tặng cho các bà nội trợ hay tuổi teen trổ tài thết đãi gia đình, bạn bè mà không phải mất nhiều thời gian để công phu chế biến!",
+      "Ingredient": "Sườn non: 600g \nTiêu xanh đập dập: 20g \nTiêu đen bể: 20g \nTiêu trắng bể: 20g \nMù tạt vàng \nBột tỏi, bột hành \nKhoai tây: 1 củ \nGia vị: Dầu ăn, dầu điều, dầu hào, mật ong, baking sodo, sữa chua có đường 1/2 hũ \nNước tương Phú Sĩ",
+      "PreliminaryTreatment": "Sườn chặt khúc 10cm, rạch 1 đường dọc ở giữa sườn. Xốt ướp: 1/3m baking soda, 1/2 hũ sữa chua có đường, bột tỏi 1m, bột hành 1m, cho 1M tiêu xanh, 1M tiêu đen bể, 1m hạt nêm Aji-ngon, 2M dầu hào, 2M nước tương “Phú Sĩ”, 3M mật ong và 1M dầu điều. Cho 1 chén nhỏ nước hấp sườn vào trộn đều, ướp với sườn qua đêm.",
+      "Make": "Xếp sườn lên vỉ, nướng 180°C trong 20 phút, rắc thêm tiêu trắng sau khi nướng. Khoai tây cắt múi cau, chiên giòn, ăn cùng sườn. Làm xốt: trộn đều hỗn hợp gồm 3M xốt mayonnaise “Aji-mayo” với 1M mù tạt vàng, 1 ít tiêu xanh băm và tiêu trắng.",
+      "Use": "Cho sườn ra dĩa, rắc lên thêm tiêu trắng xay, trang trí thêm xà lách, ăn kèm với xốt đã pha.",
+      "More": "Sự kết hợp giữa 3 loại tiêu tạo nên mùi thơm đặc trưng cho món nướng. Xẻ một đường dọc miếng sườn giúp khi ăn dễ hơn. Ướp sườn với sữa chua có đường để làm mềm sườn và thịt béo, ngon hơn."
+    },
+    "Blendy Kem Nho": {
+      "Name": "Blendy Kem Nho",
+      "PictureName": "kem_nho",
+      "Type": "nuoc",
+      "Description": "Ly trà sữa blendy kem nho mát lạnh nhiều màu sắc hấp dẫn giải khát ngày nắng nóng. Cùng Món Ngon Mỗi Ngày pha ngay ly trà sữa trái cây hương vị mới và thưởng thức thôi nào!",
+      "Ingredient": "Trà sữa Royal “Blendy: 2 gói \nNho xanh không hạt: 8 trái \nSữa tươi không đường: 80ml \nKem vani: 3 viên \nĐá bi: 120g \nSyrup socola: 1M \nRAU NÊM: Rau húng lủi",
+      "PreliminaryTreatment": "Cho 2 gói Trà sữa Royal “Blendy” vào cùng với 60ml nước sôi sau đó khuấy tan đều và để nguội.",
+      "Make": "Cho 6 quả nho vào ly cao sau đó dùng dụng cụ dầm cho nho mềm tiếp sau đó cho nước đá lên tiếp tục cho sữa tươi không đường vào, kế tiếp cho Trà sữa Royal “Blendy” vào trên cùng là 3 viên kem vani bên trên thêm 1 lớp sốt socola.  2 quả nho còn lại cắt đôi sau đó cho lên trên cùng với húng lủi trang trí.",
+      "Use": "",
+      "More": "Kết hợp với kem vani tạo hương vị béo nhẹ cho thức uống.  Trang trí bằng lớp sốt socola giúp thức uống hấp dẫn hơn.  Dầm nho dập giúp tạo hương vị đặc trưng cho thức uống."
+    },
+    "Blendy Gạo Rang Kem Chuối": {
+      "Name": "Blendy Gạo Rang Kem Chuối",
+      "PictureName": "gao_rang_kem_chuoi",
+      "Type": "nuoc",
+      "Description": "Hướng dẫn pha trà sữa Blendy gạo rang kem chuối béo thơm hương trà xanh cùng vị chuối laba giải nhiệt mùa nắng nóng.",
+      "Ingredient": "Blendy® Trà Matcha\nGạo Rang: 4 gói \nKem lạnh vani: 200g \nChuối laba: 1 quả \nKem sữa đánh bông: 100g \nĐậu phộng rang nâu: 1 thìa\nĂN KÈM: Dâu tây",
+      "PreliminaryTreatment": "Pha 4 gói Blendy® Trà Matcha Gạo Rang theo công thức hướng dẫn giữ lạnh. Chuối lột vỏ cắt nhỏ. Kem lạnh giữ đông, kem đánh cho vào bao bắt bông kem giữ lạnh. Đậu phộng rang cà bể đôi.",
+      "Make": "Cho nước trà xanh, chuối, kem lạnh vào máy sinh tố xay nhuyễn. Chế hỗn hợp trên ra ly, bắt bông kem lên trên. Rắc đậu phộng trên cùng. Trang trí vài lát dâu cắt hình trái tim.",
+      "Use": "",
+      "More": "Giữ lạnh hỗn hợp trà sau khi pha để đảm bảo độ lạnh của thức uống. Có thể thay chuối bằng loại hoa quả khác tùy thích."
+    },
+    "Trà Sữa Blendy Trái Cây": {
+      "Name": "Trà Sữa Blendy Trái Cây",
+      "PictureName": "tra_sua_trai_cay",
+      "Type": "nuoc",
+      "Description": "Trà sữa trái cây là một loại đồ uống phổ biến được pha chế từ trà, sữa, đường và trái cây tươi. Có rất nhiều cách pha chế trà sữa trái cây tuy nhiên bạn sẽ mất khá nhiều thời gian khi nấu trà sữa. Món Ngon Mỗi Ngày hướng dẫn bạn cách làm trà sữa trái cây đơn giản từ trà sữa blendy rất nhanh ngay khi lúc làm việc bận rộn hay tụ tập bạn bè mà có ngay ly trà sữa.  Trái cây giòn, ngọt, béo. Màu sắc trái cây nổi bật bên trên ly trà sữa. Vị thơm, ngọt, béo của trà sữa.",
+      "Ingredient": "Trà sữa Blendy Royal: 1 gói \nSyrup đào: 2m \nĐào ngâm: 20g \nDâu tây: 20g \nBơ chín: 20g \nNước cốt chanh: 1m \nĐọt húng lủi: 1 đọt \nGia vị: Nước cốt chanh 1m, Đọt húng lủi 1 đọt",
+      "PreliminaryTreatment": "",
+      "Make": "Pha trà sữa: Pha Blendy trà sữa Royal với 40 ml nước. Khi trà sữa còn nóng, pha đều từ từ với 10 ml (2m) syrup đào.  Cắt trái cây: Cắt vuông khoảng 1 cm gồm: đào ngâm, dâu tây, bơ. Ướp bơ với 1m nước cốt chanh.",
+      "Use": "Cho đá viên vào ly, chế trà sữa lên. Trên cùng topping trái cây cắt vuông và 1 đọt húng lủi.",
+      "More": "Pha trà sữa nóng từ từ vào syrup giúp dễ tan syrup hơn. Ướp nước cốt chanh vào bơ giúp giữ màu đẹp cho bơ. Pha trà hơi đặc để giữ đá tan chậm, tạo hình trà sữa hấp dẫn hơn."
+    },
+    "Trà sữa hoa đậu biếc": {
+      "Name": "Trà sữa hoa đậu biếc",
+      "PictureName": "tra_sua_hoa_dau_biec",
+      "Type": "nuoc",
+      "Description": "Hoa đậu biếc kết hợp cùng trà sữa Blendy tạo nên vị ngọt thanh cùng sắc xanh tím hấp dẫn, thêm chút Soda làm món thức uống ngon miệng hơn bao giờ hết!",
+      "Ingredient": "Hoa đậu biếc khô 10 hoa \nTrà Sữa Royal Blendy\" 2 gói \nSoda 1 lon \nĐá bi",
+      "PreliminaryTreatment": "Hoa đậu biếc ngâm với 50ml nước nóng, lọc lấy nước cốt. Pha 2 gói trà sữa Royal “Blendy” với 60ml nước sôi, khuấy tan, để nguội.",
+      "Make": "Cho đá vào ly, rót trà sữa vào, rót soda lên trên, cuối cùng cho cốt hoa đậu biếc lên trên cùng. Trang trí hoa đậu biếc",
+      "Use": "Khuấy đều và thưởng thức.",
+      "More": "Nên pha nước cốt hoa đậu biết hơi đậm màu, tạo tầng rõ và đẹp.  Giảm lượng nước pha trà sữa để khi thêm soda và nước hoa đậu biếc vào món nước sẽ cân bằng vị."
+    },
+    "Trà sữa trân châu đường đen": {
+      "Name": "Trà sữa trân châu đường đen",
+      "PictureName": "tra_sua_tran_chau_duong_den",
+      "Type": "nuoc",
+      "Description": "Cuối tuần rồi, mẹ làm món TRÀ SỮA TRÂN CHÂU ĐƯỜNG ĐEN đãi hội chị em thân thiết ngay thôi!!! Vị trà sữa béo, trân châu dai, giòn, cùng đường đen ngọt – thơm hòa quyện tuyệt hảo nhưng lại rất dễ làm cho câu chuyện cuối tuần thêm thú vị.",
+      "Ingredient": "Trà sữa Royal Blendy 8 gói \nTrân châu đen (khô) 50g \nSữa tươi không đường 100ml \nĐường đen 50g \nDụng cụ: bình lắc, dụng cụ đong 25-30ml",
+      "PreliminaryTreatment": "Cho đường đen vào nồi với 1 chén súp nước nóng, nấu sôi khuấy cho đường tan hết thì tắt lửa. Luộc trân châu: luộc trân châu theo hướng dẫn trên bao bì, khi chín vướt ra ngâm vào nước đường đen 10 phút.",
+      "Make": "Pha 1 ly trà sữa: cho vào bình lắc 2 gói trà sữa Royal Blendy, thêm 80ml nước sôi, khuấy tan trà sữa, thêm 50ml sữa tươi không đường và đá viên, đậy nắp, lắc đều. Đổ ra ly. Tiếp tục pha các ly còn lại.",
+      "Use": "Trình bày: Đổ trà sữa ra ly, thêm trân châu đường đen vào, trang trí với ống hút và muỗng khuấy.",
+      "More": "Luộc trân châu chín hẳn mới ngâm vào đường, giúp trân châu có độ chín dẻo. Trân châu luộc xong cho ngay vào nước đường để trân châu thấm vị ngọt."
+    },
+    "Bánh đồng xu phô mai": {
+      "Name": "Bánh đồng xu phô mai",
+      "PictureName": "banh_dong_xu_pho_mai",
+      "Type": "ngot",
+      "Description": "Bánh mềm xốt, bên trong đầy phô mai kéo sợi thơm ngon. Mau vào bếp làm ngay món Bánh đồng xu đang cực hot thôi nào!",
+      "Ingredient": "Phô mai mozzarella : 100gr \nBơ lạt: 25 gr \nNước: 140gr \nBột bánh rán pha sẵn vị truyền thống",
+      "PreliminaryTreatment": "Pha bột: trộn đều 1 gói bột bánh rán với 140gr nước. Phô mai: cắt miếng vuông (5cmx5cmx0.8cm), mỗi miếng ~20gr.",
+      "Make": "Rán bánh:  Lớp bánh thứ 1: làm nóng chảo -> hạ nhiệt chảo bằng khăn ướt -> phết 1 lớp bơ mỏng lên chảo -> cho 1 vá bột vào chảo (dùng vá dàn mỏng bột, tạo hình tròn đường kính ~10cm), rán bánh khoảng 1 phút, bánh se mặt thì lấy ra dĩa. Lớp bánh thứ 2: Tiếp tục hạ nhiệt chảo -> phết 1 lớp bơ mỏng lên chảo -> cho 2/3 vá bột vào chảo, đặt phô mai vào giữa mặt bánh, tiếp tục xếp lớp bánh thứ nhất đã rán trước đó lên trên -> đậy nắp chảo, rán trong vòng 1 phút, đến khi bánh chín.",
+      "Use": "",
+      "More": "Rán bánh với mức lửa nhỏ nhất để bánh chín và vàng đều.  Sử dụng chảo đáy dầy để tỏa nhiệt đều, bánh sẽ chín đều và ngon hơn."
+    },
+    "Bánh mì hạnh nhân": {
+      "Name": "Bánh mì hạnh nhân",
+      "PictureName": "banh_mi_hanh_nhan",
+      "Type": "ngot",
+      "Description": "Bữa sáng với bánh mì hạnh nhân vừa nhanh đơn giản lại đảm bảo dinh dưỡng cho cả gia đình. Bánh bám phủ đều hạnh nhân, cạnh giòn bên ngoài mềm bên trong. Có màu vàng nâu của hạnh nhân, màu vàng của trứng. Vị ngọt béo từ nhân bên trong đến sốt mayonnaise bên ngoài.",
+      "Ingredient": "Bánh mì trắng (sandwich): 4 lát\nMứt cam: 40g \nPhô mai kem ( cream cheese): 50g \nHạnh nhân lát: 100g \nTrứng gà: 2 quả \nDâu ngọt: 4 quả \nĐường xay: 10g \nHúng lủi: 2 đọt \nBơ lạt: 20g \nXốt Mayonnaise Aji-mayo® Vị Ngọt Dịu",
+      "PreliminaryTreatment": "Phết cream cheese lên 1 mặt 2 miếng bánh mì. 2 miếng còn lại phết mứt cam. Kẹp 2 miếng lại với nhau, cẳt bỏ rìa, cắt 1/2 theo đường chéo. Trứng gà đánh tan",
+      "Make": "Chuẩn bị chảo nóng, cho ít bơ vào đun chảy. Nhúng nhanh từng miếng bánh vào trứng rồi cho vào hạnh nhân áo phủ đều bên ngoài, cho vào chảo chiên nhỏ lửa, trở đều các mặt đến khi hạnh nhân vàng bên ngoài và trứng chín bên trong. Bắt Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu lên bánh mì.",
+      "Use": "Cho bánh ra đĩa, ray đường bột lên trên, bắt chỉ Xốt Mayonnaise Aji-mayo® Vị Ngọt Dịu và mật ong trên cùng. Trang trí với dâu tây và húng lủi.",
+      "More": "Phết cream cheese để 2 miếng bánh mì được kết chặt vào nhau.  Cắt đôi theo đường chéo tạo cảm giác miếng bánh được to hơn.  Nhúng nhanh bánh qua trứng để bánh không bị nhũng, chiên trứng sẽ khó chín bên trong."
+    },
+    "Bánh muffin chuối socola": {
+      "Name": "Bánh muffin chuối socola",
+      "PictureName": "banh_muffin",
+      "Type": "ngot",
+      "Description": "Bánh muffin chuối socola sự kết hợp mùi thơm béo của bơ, chuối và quế, với vị chua nhẹ của chanh hòa lẫn vị ngọt của socola tỏa ra từ lớp bánh mềm mịn, thêm ly trà nữa là ngất ngây. Cuối tuần rảnh rỗi, ngại gì mà không thử ngay món tráng miệng hấp dẫn này nhỉ?",
+      "Ingredient": "Trứng gà: 2 quả \nChuối già hương: 2 trái (1 trái cắt lát, phần còn lại cắt nhỏ, vắt 1/2M nước cốt chanh vào) \nBơ lạt: 100g \nSocola hạt: 30g Bột quế: 1/3 thìa \nChanh: 1 miếng (lấy nước 1/2M)",
+      "PreliminaryTreatment": "Chuối già hương: 1 trái cắt lát, phần còn lại cắt nhỏ, vắt 1/2M nước cốt chanh vào. Bơ để mềm, sau đó dùng máy đánh trứng đánh bông, tiếp tục trộn trứng, chuối cắt nhỏ và cuối cùng trộn 1 gói bột pancake chocolate, 1/3m bột quế.",
+      "Make": "Cho hỗn hợp vào ly cupcake, xếp vài lát chuối, rắc vài hạt socola lên bánh, lên chuối. Làm nóng lò ở 170 độ, nướng bánh khoảng 25 – 30 phút.",
+      "Use": "Xếp bánh ra dĩa. Có thể dùng nóng hoặc nguội tùy thích.",
+      "More": "Sự kết hợp của chuối và bột pancake socola sẽ tạo ra món bánh thơm ngon. Làm nóng lò trước khi nướng giúp nhiệt độ ổn đinh, bánh nướng sẽ chín đều và nổi đẹp hơn."
+    },
+    "Bánh rán trái cây": {
+      "Name": "Bánh rán trái cây",
+      "PictureName": "banh_ran_trai_cay",
+      "Type": "ngot",
+      "Description": "Món bánh rán trái cây này đảm bảo hấp dẫn các bé, thậm chí người lớn cũng sẽ thích! Bánh tròn vàng nâu đẹp mắt, thơm đặc trưng mùi bánh rán với vị béo nhẹ và có độ xốp, kết hợp với trái cây và sốt sô cô la tạo nên món tráng miệng vô cùng tuyệt vời. Bánh có thể kết hợp với nhiều loại mứt và trái cây để bạn tha hồ biến tấu!",
+      "Ingredient": "Dâu tươi: 200g (10 quả) \nChuối: 1 quả \nSocola (dạng lỏng) \nBột quế : 1thìa \nChanh xanh: 1 trái (lấy nước cốt & mài vỏ) \nGia vị: đường bột, húng lủi trang trí \nBột bánh rán pha sẵn vị truyền thống",
+      "PreliminaryTreatment": "Chanh mài lấy vỏ chanh và vắt lấy nước cốt chanh. Dâu tây cắt lát mỏng. Chuối cắt lát mỏng, vắt 1m nước cốt chanh lên trên. Chuẩn bị sẵn khăn ướt.",
+      "Make": "Cho 200g bột bánh rán vào tô, thêm vào 140ml nước lọc, khuấy đều. Cho chảo không dính lên bếp đun nóng, đặt chảo lên xấp khăn ướt cho chảo nguội bớt rồi chuyển lại lên bếp, giảm lửa nhỏ, dùng vá múc bột đổ vào giữa chảo, đợi mặt bánh se lại, bánh nổi những bong bóng nhỏ thì dùng sạn nhựa lật mặt bánh lại, rán thêm vài phút cho mặt bánh chín thì lấy ra dĩa.",
+      "Use": "Bánh nhân dâu: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp dâu tây lên, xếp thêm 1 lớp bánh và chocolate, dâu tây như trên nữa để được 1 cặp bánh nhân dâu, rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi. Bánh nhân chuối: Cho 1 lớp bánh lên dĩa, rưới socola rồi xếp chuối lên, xếp thêm 1 lớp bánh và chocolate, chuối như trên nữa để được 1 cặp bánh nhân chuối, sau cùng rắc thêm một ít bột quế lên trên. rắc lên một ít đường bột, một ít vỏ chanh xanh lên trên cùng, trang trí húng lủi.",
+      "More": "Cần đun cho chảo nóng đều sau đó mới giảm nhiệt độ xuống để bánh có màu đều và đẹp hơn. Khi đổ bột vào chảo, chỉ đổ vào một điểm để bột tự tràn ra tạo hình tròn thì bánh sẽ tròn đẹp. Vắt chanh lên chuối để chuối không bị xuống màu và dậy mùi thơm."
+    }
   }
 }
